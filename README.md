@@ -29,7 +29,7 @@ pip install tkinter tkcalendar reportlab python-docx num2words
 ### 2. Executar o Programa
 Para rodar o programa, basta executar o arquivo Python:
 ```sh
-python nome_do_arquivo.py
+python recibo.py
 ```
 
 ### 3. Preenchimento dos Campos
